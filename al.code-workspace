@@ -1,7 +1,13 @@
 {
     "folders": [
         {
-            "path": ".AL-Go"
+            "path": "dcDemo/.AL-Go"
+        },
+        {
+            "path": "dcDemo/dcDemo"
+        },
+        {
+            "path": "dcDemo/dcDemo.Test"
         }
     ],
     "settings": {}
